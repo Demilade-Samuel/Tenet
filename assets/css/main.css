@@ -835,9 +835,6 @@ input, select, textarea {
 		}
 		.nal
 		{
-			color: #ffffff !important;
+			color: white !important;
 		}
-		.nal:hover
-		{
-			color: transparent !important;
-		}
+		
