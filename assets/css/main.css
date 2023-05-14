@@ -837,3 +837,7 @@ input, select, textarea {
 		{
 			color: #ffffff !important;
 		}
+		.nal:hover
+		{
+			color: transparent !important;
+		}
